@@ -1,2 +1,3 @@
 # enotice-api
-USE gofiber
+- gofiber v.2
+- GORM v.2
