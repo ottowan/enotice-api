@@ -1,0 +1,2 @@
+# enotice-api
+USE gofiber
